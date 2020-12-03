@@ -1,3 +1,3 @@
-# clockJS
+# timeJS
 
-Display current time (24 HR display)
+Display current time in 24 hour format
